@@ -3,7 +3,7 @@
 🌱 I’m currently learning .NET and C#  
 🚀 Intern at IBM Brasil
 
-![logo](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaidenny&layout=compact)  
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaidenny&layout=compact)](https://github.com/vanessaidenny)
 
 ### Find me elsewhere 🌎
 
