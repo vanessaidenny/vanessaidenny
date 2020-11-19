@@ -1,7 +1,10 @@
 ### Hi there 👋👸
 
 🌱 I’m currently learning .NET and C#  
-🚀 Intern at IBM Brasil
+🚀 Intern at IBM Brasil  
+  
+
+[![Profile Views](https://komarev.com/ghpvc/?username=vanessaidenny&color=lightgrey)](https://github.com/vanessaidenny)  
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaidenny&layout=compact)](https://github.com/vanessaidenny)
 
