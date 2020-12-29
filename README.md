@@ -1,7 +1,7 @@
 ### Hi there 👋👸
 
 🌱 I’m currently learning .NET and C#  
-🚀 Intern at IBM Brasil
+🚀 Intern at IBM Brasil  
 📚 Math and architecture enthusiast
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaidenny&layout=compact)](https://github.com/vanessaidenny)
