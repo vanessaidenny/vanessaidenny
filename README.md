@@ -8,7 +8,10 @@
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessaidenny/)](https://www.linkedin.com/in/vanessaidenny/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessaidenny/)](https://www.linkedin.com/in/vanessaidenny/) 
+[![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vanessaidenny/)
+[![Skoob Badge](https://img.shields.io/badge/Skoob-blueviolet)](https://www.skoob.com.br/perfil/vanessaidenny/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-black)](https://codepen.io/vanessaidenny)
 
 <!--
 **vanessaidenny/vanessaidenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
