@@ -5,7 +5,7 @@
 🚀 Intern at IBM Brasil  
 📚 Math and architecture enthusiast  
 </br>
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaidenny&layout=compact&theme=vision-friendly-dark)](https://github.com/vanessaidenny)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaidenny&layout=compact&theme=ayu-mirage)](https://github.com/vanessaidenny)
 
 ### Find me elsewhere 🌎
 
@@ -13,7 +13,7 @@
 [![Instagram Bagde](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/vanessaidenny/)
 [![Skoob Badge](https://img.shields.io/badge/Skoob-blueviolet)](https://www.skoob.com.br/perfil/vanessaidenny/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-black)](https://codepen.io/vanessaidenny)
-
+</div>
 <!--
 **vanessaidenny/vanessaidenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
