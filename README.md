@@ -1,11 +1,10 @@
-<div style="text-align:center">
 ### Hi there 👋👸
   
 🌱 I’m currently learning .NET and C#  
 🚀 Intern at IBM Brasil  
 📚 Math and architecture enthusiast  
-</br>
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaidenny&layout=compact&theme=ayu-mirage)](https://github.com/vanessaidenny)
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaidenny&layout=compact&theme=solarized-light)](https://github.com/vanessaidenny)
 
 ### Find me elsewhere 🌎
 
