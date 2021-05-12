@@ -1,8 +1,9 @@
 ### Hi there 👋👸
   
-    🌱 I’m currently learning .NET and C#  
-    🚀 Intern at IBM Brasil  
-    📚 Math and architecture enthusiast  
+    🌱 I’m currently learning .NET and Angular
+    🚀 Application Developer at IBM Brasil
+    📚 Art, math and architecture enthusiast
+    🩰 Ballet and jazz dancer since 1999
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaidenny&layout=compact&theme=solarized-light)](https://github.com/vanessaidenny)
 
