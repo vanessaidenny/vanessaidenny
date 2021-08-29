@@ -1,8 +1,8 @@
 ### Hi there 👋👸
   
-    🌱 I’m currently learning .NET and Angular
-    🚀 Application Developer at IBM Brasil
-    📚 Art, math and architecture enthusiast
+    🌱 I’m currently learning Angular, Typescript, Javascript, Node.js
+    🚀 Application developer at IBM Brasil
+    📚 UI design and design system enthusiast
     🩰 Ballet and jazz dancer since 1999
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaidenny&layout=compact&theme=solarized-light)](https://github.com/vanessaidenny)
