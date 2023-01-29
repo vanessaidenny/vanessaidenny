@@ -1,6 +1,6 @@
 ### Hi there 👋👸
   
-    🌱 I’m currently learning Angular, Typescript, Javascript
+    🌱 Learning Angular, Typescript, Javascript
     🚀 Application developer
     📚 UI, UX and graphic design student
     🩰 Ballet and jazz dancer since 1999
