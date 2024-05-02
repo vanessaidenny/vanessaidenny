@@ -1,9 +1,8 @@
 ### Hi there 👋👸
   
-    🌱 Learning Angular, Typescript, Javascript
-    🚀 Application developer
-    📚 UI, UX and graphic design student
-    🩰 Ballet and jazz dancer since 1999
+    🚀 Application Developer since 2017
+    📚 UI, UX and Graphic Designer since 2022
+    🩰 Ballet and Jazz Dancer since 1999
 
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaidenny&layout=compact&theme=solarized-light)](https://github.com/vanessaidenny)
 
